@@ -1,2 +1,3 @@
 # Practice
-Just some small programming practics 
+Just some small programming practices
+
